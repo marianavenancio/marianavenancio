@@ -1,5 +1,5 @@
 
- I’m Tech Sourcer at Uber
+ I’m Tech Recruiter at Uber
 
 #WeAreHiring
 
@@ -11,7 +11,7 @@ Nosso time LatAm de Talent Acquisition está iniciando a preparação para a Sem
 
 Se você for uma pessoa engenheira #Android, #iOS, #Frontend ou #Backend não pode deixar de dar uma olhada nas oportunidades e se inscrever!
 
-Confira nossa página do evento que explica tudo sobre esta semana, link do evento: https://brazilengineeringhiringweek.splashthat.com/
+Confira nossa página de carreira https://www.uber.com/br/pt-br/careers/
 
 <!---
 marianavenancio/marianavenancio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
