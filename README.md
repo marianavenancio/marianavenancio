@@ -7,8 +7,6 @@ Fala, pessoal!
 
 Estamos com diversas posições em aberto para o nosso mais novo time de Uber for Business aqui no Brasil. Vamos iniciar esta estrutura do zero, trazendo pessoas engenheiras para trabalhar com desafios globais.
 
-Nosso time LatAm de Talent Acquisition está iniciando a preparação para a Semana de Recrutamento de Engenharia em U4B! 
-
 Se você for uma pessoa engenheira #Android, #iOS, #Frontend ou #Backend não pode deixar de dar uma olhada nas oportunidades e se inscrever!
 
 Confira nossa página de carreira https://www.uber.com/br/pt-br/careers/
